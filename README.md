@@ -22,6 +22,6 @@ Cada versão traz o arquivo `SHA256SUMS.txt` com a soma de verificação de cada
 
 ## Suporte
 
-[ola@breakpane.com](mailto:ola@breakpane.com)
+[support@breakpane.com](mailto:support@breakpane.com)
 
 © SFAL Solutions Ltda. Todos os direitos reservados.
