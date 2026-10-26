@@ -6,6 +6,8 @@ Breakpane is a desktop app for Mac and Windows that shows your site or web app o
 
 **Website, pricing and download:** [breakpane.com](https://breakpane.com/en) · [Breakpane for coding agents](https://breakpane.com/en/agents)
 
+![Claude Code tapping "Sign in" on an iPhone, an Android and a MacBook in Breakpane](assets/agent-devices.png)
+
 This repository only holds the installers and release notes. The app checks it for updates.
 
 ## Install
